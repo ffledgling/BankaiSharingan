@@ -1,9 +1,11 @@
-1. You need beautiful soup (A python lib) installed
-2. Python 2.x compatible only.
-3. Works only with 'http://www.mangareader.net/' (For now)
-4. Paste URL of Page from which you want to start download
+1. Python 2.x compatible only.
+2. Works only with 'http://www.mangareader.net/' (For now)
+3. Paste URL of Page from which you want to start download
 	examples:
 		- To Download entire Series Paste URL of 1st page from the 1st chapter
 		(http://www.mangareader.net/116-5187-1/full-metal-alchemist/chapter-1.html)
 
-5. It Downloads from the given page to the end of the manga.
+4. It Downloads from the given page to the end of the manga.
+
+5. <strike>You need beautiful soup (A python lib) installed</strike>
+ You no longer need to manually install the BeautifulSoup library.
