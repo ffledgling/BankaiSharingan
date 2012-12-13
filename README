@@ -1,11 +1,14 @@
-1. File required soup.py
-2. Works only with 'http://www.mangareader.net/'
-2. Paste URL of Page from which you want to start download
+1. You need beautiful soup (A python lib) installed
+2. Works only with 'http://www.mangareader.net/' (For now)
+3. Paste URL of Page from which you want to start download
 	examples:
 		- To Download entire Series Paste URL of 1st page from the 1st chapter
 			(http://www.mangareader.net/116-5187-1/full-metal-alchemist/chapter-1.html)
 4. It Downloads from the given page to the end of the manga.
+
 5. Things to do:
 	- Integrate with a scheduler that can check if a new manga is up and Download the latest chapter.
-	- Make it compatible with other more popular websites such as Mangafox manga.animea.com etc. 
+	- Make it compatible with other popular websites such as Mangafox, manga.animea.com etc.
+	- Add dialog and prompt for proxy (Hidden proxy handler already exists, Input UI is all that is needed)
+	- *DEVELOP A GUI FRONT-END*
 		
